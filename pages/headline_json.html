@@ -1,0 +1,32 @@
+<!-- File: headline_json.html -->
+<html>
+    <head>
+        <title>DATA SCRAPING 1</title>
+        <!--Import library jquery-->
+        <script
+          src="https://code.jquery.com/jquery-3.6.0.js"
+          integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+          crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <h1>Headline Republika Online</h1>
+        <div id="headline_json"></div>
+    </body>
+    <script type="text/javascript">
+        $(function(){
+            $.get('./data.json',function(obj){
+                var str = "<table border=1>";
+                str +="<tr><td>No</td><td class='tables'>Judul Headline</td><td class='tables'>Kategori</td><td class='tables'>Waktu Publish</td><td class='tables'>Waktu Scrapping</td></tr>";
+                $.each(obj,function(n,data){
+                    str +="<tr><td>" + (n+1) + "</td>";
+                    str +="<td>" + data.Judul + "</td>";
+                    str +="<td class='tables'>" + data.Kategori + "</td>";
+                    str +="<td class='tables'>" + data.Waktu_publish + "</td>";
+                    str +="<td class='tables'>" + data.Waktu_scrapping + "</td></tr>";
+                });
+                str +="</table>";
+                $('#headline_json').html(str);
+            });
+        });
+    </script>
+</html>
