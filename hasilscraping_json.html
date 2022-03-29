@@ -9,19 +9,21 @@
             crossorigin="anonymous"></script>
       </head>
       <body>
-          <h1>ToRolling Stone's 100 Greatest TV Shows of All Time</h1>
+          <h1>Rolling Stone's 100 Greatest TV Shows of All Time</h1>
           <div id="hasilscraping_json"></div>
       </body>
       <script type="text/javascript">
           $(function(){
               $.get('./hasilscraping.json',function(obj){
                   var str = "<table border=1>";
-                  str +="<tr>Ranking<td></td><td class='tables'>Cover</td><td class='tables'>Judul</td><td class='tables'>Rating</td><td class='tables'>Pemain</td><td class='tables'>Waktu Scraping</td></tr>";
+                  str +="<tr>Ranking<td></td><td class='tables'>Cover</td><td class='tables'>Judul</td><td class='tables'>Rating</td><td class='tables'>Durasi</td><td class='tables'>Pemain</td><td class='tables'>Waktu Scraping</td></tr>";
                   $.each(obj,function(n,hasilscraping){
-                      str +="<tr><td>" + hasilscraping.No/Judul/Release + "</td>";
+                      str +="<tr><td>" + (n+1) + "</td>";
                       str +="<td>" + "<img src=" + hasilscraping.Image + ">" +"</td>";    
                       str +="<td>" + hasilscraping.Judul + "</td>";
-                      str +="<td class='tables'>" + hasilscraping.Tahun_Rilis + "</td>";
+                      str +="<td class='tables'>" + hasilscraping.Rating + "</td>";
+                      str +="<td class='tables'>" + hasilscraping.Durasi + "</td>";
+                      str +="<td class='tables'>" + hasilscraping.Pemain + "</td>";
                       str +="<td class='tables'>" + hasilscraping.Waktu_Scraping + "</td></tr>";
                   });
                   str +="</table>";
