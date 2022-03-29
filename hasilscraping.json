@@ -1,0 +1,802 @@
+[
+      {
+            "Judul": "1. The Sopranos (1999\u20132007)",
+            "Durasi": "TV-MA | 55 min | Crime, Drama",
+            "Rating": "9.2",
+            "Pemain": "Stars: James Gandolfini, Lorraine Bracco, Edie Falco, Michael Imperioli",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:27"
+      },
+      {
+            "Judul": "2. The Wire (2002\u20132008)",
+            "Durasi": "TV-MA | 59 min | Crime, Drama, Thriller",
+            "Rating": "9.3",
+            "Pemain": "Stars: Dominic West, Lance Reddick, Sonja Sohn, Wendell Pierce",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:29"
+      },
+      {
+            "Judul": "3. Breaking Bad (2008\u20132013)",
+            "Durasi": "TV-MA | 49 min | Crime, Drama, Thriller",
+            "Rating": "9.5",
+            "Pemain": "Stars: Bryan Cranston, Aaron Paul, Anna Gunn, Betsy Brandt",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:31"
+      },
+      {
+            "Judul": "4. Mad Men (2007\u20132015)",
+            "Durasi": "TV-14 | 47 min | Drama",
+            "Rating": "8.7",
+            "Pemain": "Stars: Jon Hamm, Elisabeth Moss, Vincent Kartheiser, January Jones",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:33"
+      },
+      {
+            "Judul": "5. Seinfeld (1989\u20131998)",
+            "Durasi": "TV-PG | 22 min | Comedy",
+            "Rating": "8.9",
+            "Pemain": "Stars: Jerry Seinfeld, Julia Louis-Dreyfus, Michael Richards, Jason Alexander",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:35"
+      },
+      {
+            "Judul": "6. The Simpsons (1989\u2013 )",
+            "Durasi": "TV-PG | 22 min | Animation, Comedy",
+            "Rating": "8.7",
+            "Pemain": "Stars: Dan Castellaneta, Nancy Cartwright, Harry Shearer, Julie Kavner",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:37"
+      },
+      {
+            "Judul": "7. The Twilight Zone (1959\u20131964)",
+            "Durasi": "TV-PG | 51 min | Drama, Fantasy, Horror",
+            "Rating": "9.1",
+            "Pemain": "Stars: Rod Serling, Robert McCord, Jay Overholts, Vaughn Taylor",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:39"
+      },
+      {
+            "Judul": "8. Saturday Night Live (1975\u2013 )",
+            "Durasi": "TV-14 | 90 min | Comedy, Music",
+            "Rating": "8",
+            "Pemain": "Stars: The Saturday Night Live Band, Don Pardo, Darrell Hammond, Lenny Pickett",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:42"
+      },
+      {
+            "Judul": "9. All in the Family (1971\u20131979)",
+            "Durasi": "TV-PG | 30 min | Comedy, Drama",
+            "Rating": "8.4",
+            "Pemain": "Stars: Carroll O'Connor, Jean Stapleton, Rob Reiner, Sally Struthers",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:44"
+      },
+      {
+            "Judul": "10. The Daily Show (1996\u2013 )",
+            "Durasi": "TV-14 | 22 min | Comedy, News, Talk-Show",
+            "Rating": "8.3",
+            "Pemain": "Stars: Jon Stewart, Trevor Noah, Stephen Colbert, John Oliver",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:46"
+      },
+      {
+            "Judul": "11. Freaks and Geeks (1999\u20132000)",
+            "Durasi": "TV-14 | 44 min | Comedy, Drama",
+            "Rating": "8.8",
+            "Pemain": "Stars: Linda Cardellini, John Francis Daley, James Franco, Samm Levine",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:48"
+      },
+      {
+            "Judul": "12. Game of Thrones (2011\u20132019)",
+            "Durasi": "TV-MA | 57 min | Action, Adventure, Drama",
+            "Rating": "9.3",
+            "Pemain": "Stars: Emilia Clarke, Peter Dinklage, Kit Harington, Lena Headey",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:50"
+      },
+      {
+            "Judul": "13. Late Show with David Letterman (1993\u20132015)",
+            "Durasi": "TV-PG | 60 min | Comedy, Music, Talk-Show",
+            "Rating": "6.9",
+            "Pemain": "Stars: David Letterman, Paul Shaffer, Alan Kalter, Biff Henderson",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:51"
+      },
+      {
+            "Judul": "14. The Larry Sanders Show (1992\u20131998)",
+            "Durasi": "TV-MA | 30 min | Comedy",
+            "Rating": "8.5",
+            "Pemain": "Stars: Garry Shandling, Jeffrey Tambor, Wallace Langham, Rip Torn",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:53"
+      },
+      {
+            "Judul": "15. The West Wing (1999\u20132006)",
+            "Durasi": "TV-14 | 44 min | Drama",
+            "Rating": "8.9",
+            "Pemain": "Stars: Martin Sheen, Rob Lowe, Allison Janney, John Spencer",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:55"
+      },
+      {
+            "Judul": "16. M*A*S*H (1972\u20131983)",
+            "Durasi": "TV-PG | 25 min | Comedy, Drama, War",
+            "Rating": "8.4",
+            "Pemain": "Stars: Alan Alda, Wayne Rogers, Loretta Swit, Jamie Farr",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:54:57"
+      },
+      {
+            "Judul": "17. Twin Peaks (1990\u20131991)",
+            "Durasi": "TV-MA | 47 min | Crime, Drama, Mystery",
+            "Rating": "8.8",
+            "Pemain": "Stars: Kyle MacLachlan, Michael Ontkean, M\u00e4dchen Amick, Dana Ashbrook",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:00"
+      },
+      {
+            "Judul": "18. Star Trek (1966\u20131969)",
+            "Durasi": "TV-PG | 50 min | Action, Adventure, Sci-Fi",
+            "Rating": "8.4",
+            "Pemain": "Stars: William Shatner, Leonard Nimoy, DeForest Kelley, Nichelle Nichols",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:03"
+      },
+      {
+            "Judul": "19. Curb Your Enthusiasm (2000\u2013 )",
+            "Durasi": "TV-MA | 28 min | Comedy",
+            "Rating": "8.8",
+            "Pemain": "Stars: Larry David, Cheryl Hines, Jeff Garlin, Susie Essman",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:05"
+      },
+      {
+            "Judul": "20. Cheers (1982\u20131993)",
+            "Durasi": "TV-PG | 22 min | Comedy, Drama",
+            "Rating": "8",
+            "Pemain": "Stars: Ted Danson, Rhea Perlman, John Ratzenberger, George Wendt",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:08"
+      },
+      {
+            "Judul": "21. The Office (2001\u20132003)",
+            "Durasi": "TV-MA | 30 min | Comedy, Drama",
+            "Rating": "8.5",
+            "Pemain": "Stars: Ricky Gervais, Martin Freeman, Mackenzie Crook, Lucy Davis",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:11"
+      },
+      {
+            "Judul": "22. Louie (2010\u20132015)",
+            "Durasi": "TV-MA | 22 min | Comedy, Drama",
+            "Rating": "8.6",
+            "Pemain": "Stars: Louis C.K., Hadley Delany, Ursula Parker, Pamela Adlon",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:13"
+      },
+      {
+            "Judul": "23. Deadwood (2004\u20132006)",
+            "Durasi": "TV-MA | 55 min | Crime, Drama, History",
+            "Rating": "8.6",
+            "Pemain": "Stars: Timothy Olyphant, Ian McShane, Molly Parker, Brad Dourif",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:15"
+      },
+      {
+            "Judul": "24. Friday Night Lights (2006\u20132011)",
+            "Durasi": "TV-14 | 44 min | Drama, Sport",
+            "Rating": "8.8",
+            "Pemain": "Stars: Kyle Chandler, Connie Britton, Zach Gilford, Aimee Teegarden",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:17"
+      },
+      {
+            "Judul": "25. Veep (2012\u20132019)",
+            "Durasi": "TV-MA | 28 min | Comedy",
+            "Rating": "8.4",
+            "Pemain": "Stars: Julia Louis-Dreyfus, Tony Hale, Anna Chlumsky, Reid Scott",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:19"
+      },
+      {
+            "Judul": "26. Friends (1994\u20132004)",
+            "Durasi": "TV-14 | 22 min | Comedy, Romance",
+            "Rating": "9",
+            "Pemain": "Stars: Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:21"
+      },
+      {
+            "Judul": "27. Arrested Development (2003\u20132019)",
+            "Durasi": "TV-14 | 22 min | Comedy",
+            "Rating": "8.7",
+            "Pemain": "Stars: Jason Bateman, Michael Cera, Portia de Rossi, Will Arnett",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:23"
+      },
+      {
+            "Judul": "28. The X-Files (1993\u20132018)",
+            "Durasi": "TV-14 | 45 min | Crime, Drama, Mystery",
+            "Rating": "8.7",
+            "Pemain": "Stars: David Duchovny, Gillian Anderson, Mitch Pileggi, William B. Davis",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:26"
+      },
+      {
+            "Judul": "29. Monty Python's Flying Circus (1969\u20131974)",
+            "Durasi": "TV-14 | 30 min | Comedy",
+            "Rating": "8.8",
+            "Pemain": "Stars: Graham Chapman, John Cleese, Terry Gilliam, Eric Idle",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:28"
+      },
+      {
+            "Judul": "30. The Tonight Show Starring Johnny Carson (1962\u20131992)",
+            "Durasi": "TV-G | 105 min | Comedy, Talk-Show",
+            "Rating": "8.5",
+            "Pemain": "Stars: Johnny Carson, Ed McMahon, Doc Severinsen, Skitch Henderson",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:30"
+      },
+      {
+            "Judul": "31. Sesame Street (1969\u2013 )",
+            "Durasi": "TV-Y | 55 min | Animation, Adventure, Comedy",
+            "Rating": "8.2",
+            "Pemain": "Stars: Jim Henson, Frank Oz, Caroll Spinney, Jerry Nelson",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:33"
+      },
+      {
+            "Judul": "32. I Love Lucy (1951\u20131957)",
+            "Durasi": "TV-G | 30 min | Comedy, Family",
+            "Rating": "8.5",
+            "Pemain": "Stars: Lucille Ball, Desi Arnaz, Vivian Vance, William Frawley",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:35"
+      },
+      {
+            "Judul": "33. South Park (1997\u2013 )",
+            "Durasi": "TV-MA | 22 min | Animation, Comedy",
+            "Rating": "8.8",
+            "Pemain": "Stars: Trey Parker, Matt Stone, Isaac Hayes, Mona Marshall",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:37"
+      },
+      {
+            "Judul": "34. 30 Rock (2006\u20132013)",
+            "Durasi": "TV-14 | 22 min | Comedy",
+            "Rating": "8.3",
+            "Pemain": "Stars: Tina Fey, Alec Baldwin, Tracy Morgan, Jack McBrayer",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:40"
+      },
+      {
+            "Judul": "35. My So-Called Life (1994\u20131995)",
+            "Durasi": "TV-14 | 60 min | Comedy, Drama, Romance",
+            "Rating": "8.4",
+            "Pemain": "Stars: Bess Armstrong, Wilson Cruz, Claire Danes, Devon Gummersall",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:42"
+      },
+      {
+            "Judul": "36. Law & Order (1990\u2013 )",
+            "Durasi": "TV-14 | 45 min | Crime, Drama, Mystery",
+            "Rating": "7.8",
+            "Pemain": "Stars: Jerry Orbach, Jesse L. Martin, Dennis Farina, S. Epatha Merkerson",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:44"
+      },
+      {
+            "Judul": "37. Orange Is the New Black (2013\u20132019)",
+            "Durasi": "TV-MA | 59 min | Comedy, Crime, Drama",
+            "Rating": "8.1",
+            "Pemain": "Stars: Taylor Schilling, Danielle Brooks, Taryn Manning, Emma Myles",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:46"
+      },
+      {
+            "Judul": "38. Buffy the Vampire Slayer (1997\u20132003)",
+            "Durasi": "TV-14 | 44 min | Action, Drama, Fantasy",
+            "Rating": "8.3",
+            "Pemain": "Stars: Sarah Michelle Gellar, Nicholas Brendon, Alyson Hannigan, Anthony Head",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:48"
+      },
+      {
+            "Judul": "39. Lost (2004\u20132010)",
+            "Durasi": "TV-14 | 44 min | Adventure, Drama, Fantasy",
+            "Rating": "8.4",
+            "Pemain": "Stars: Jorge Garcia, Josh Holloway, Yunjin Kim, Evangeline Lilly",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:50"
+      },
+      {
+            "Judul": "40. The Shield (2002\u20132008)",
+            "Durasi": "TV-MA | 47 min | Crime, Drama, Thriller",
+            "Rating": "8.7",
+            "Pemain": "Stars: Michael Chiklis, Michael Jace, Jay Karnes, CCH Pounder",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:52"
+      },
+      {
+            "Judul": "41. The Honeymooners (1955\u20131956)",
+            "Durasi": "TV-PG | 30 min | Comedy, Family",
+            "Rating": "8.7",
+            "Pemain": "Stars: Jackie Gleason, Art Carney, Audrey Meadows, Joyce Randolph",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:55"
+      },
+      {
+            "Judul": "42. NYPD Blue (1993\u20132005)",
+            "Durasi": "TV-14 | 45 min | Crime, Drama, Mystery",
+            "Rating": "7.7",
+            "Pemain": "Stars: Dennis Franz, Jimmy Smits, Gordon Clapp, James McDaniel",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:57"
+      },
+      {
+            "Judul": "43. The Americans (2013\u20132018)",
+            "Durasi": "TV-MA | 44 min | Crime, Drama, Mystery",
+            "Rating": "8.4",
+            "Pemain": "Stars: Keri Russell, Matthew Rhys, Keidrich Sellati, Holly Taylor",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:55:59"
+      },
+      {
+            "Judul": "44. Columbo (1971\u20132003)",
+            "Durasi": "TV-PG | 100 min | Crime, Drama, Mystery",
+            "Rating": "8.3",
+            "Pemain": "Stars: Peter Falk, Mike Lally, John Finnegan, Bruce Kirby",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:01"
+      },
+      {
+            "Judul": "45. Battlestar Galactica (2004\u20132009)",
+            "Durasi": "TV-14 | 44 min | Action, Adventure, Drama",
+            "Rating": "8.7",
+            "Pemain": "Stars: Edward James Olmos, Mary McDonnell, Jamie Bamber, James Callis",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:04"
+      },
+      {
+            "Judul": "46. The Mary Tyler Moore Show (1970\u20131977)",
+            "Durasi": "TV-PG | 30 min | Comedy",
+            "Rating": "8.3",
+            "Pemain": "Stars: Mary Tyler Moore, Edward Asner, Gavin MacLeod, Valerie Harper",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:07"
+      },
+      {
+            "Judul": "47. The Rockford Files (1974\u20131980)",
+            "Durasi": "TV-PG | 50 min | Crime, Drama, Mystery",
+            "Rating": "8.2",
+            "Pemain": "Stars: James Garner, Noah Beery Jr., Joe Santos, Luis Delgado",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:09"
+      },
+      {
+            "Judul": "48. The Office (2005\u20132013)",
+            "Durasi": "TV-14 | 22 min | Comedy",
+            "Rating": "9",
+            "Pemain": "Stars: Steve Carell, Jenna Fischer, John Krasinski, Rainn Wilson",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:11"
+      },
+      {
+            "Judul": "49. Taxi (1978\u20131983)",
+            "Durasi": "TV-PG | 30 min | Comedy",
+            "Rating": "7.7",
+            "Pemain": "Stars: Judd Hirsch, Jeff Conaway, Danny DeVito, Marilu Henner",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:13"
+      },
+      {
+            "Judul": "50. ER (1994\u20132009)",
+            "Durasi": "TV-14 | 44 min | Drama, Romance",
+            "Rating": "7.9",
+            "Pemain": "Stars: Anthony Edwards, George Clooney, Julianna Margulies, Eriq La Salle",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:15"
+      },
+      {
+            "Judul": "51. Fargo (2014\u2013 )",
+            "Durasi": "TV-MA | 53 min | Crime, Drama, Thriller",
+            "Rating": "8.9",
+            "Pemain": "Stars: Billy Bob Thornton, Martin Freeman, Allison Tolman, Colin Hanks",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:18"
+      },
+      {
+            "Judul": "52. The Colbert Report (2005\u20132014)",
+            "Durasi": "TV-14 | 30 min | Comedy, News, Talk-Show",
+            "Rating": "8.4",
+            "Pemain": "Stars: Stephen Colbert, Jay Katsir, Jon Stewart, Paul Dinello",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:20"
+      },
+      {
+            "Judul": "53. The Bob Newhart Show (1972\u20131978)",
+            "Durasi": "TV-G | 30 min | Comedy",
+            "Rating": "8.1",
+            "Pemain": "Stars: Bob Newhart, Suzanne Pleshette, Bill Daily, Marcia Wallace",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:22"
+      },
+      {
+            "Judul": "54. The Muppet Show (1976\u20131981)",
+            "Durasi": "TV-G | 30 min | Comedy, Family, Music",
+            "Rating": "8.4",
+            "Pemain": "Stars: Jim Henson, Frank Oz, Richard Hunt, Dave Goelz",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:24"
+      },
+      {
+            "Judul": "55. Six Feet Under (2001\u20132005)",
+            "Durasi": "TV-MA | 60 min | Comedy, Drama",
+            "Rating": "8.8",
+            "Pemain": "Stars: Peter Krause, Michael C. Hall, Frances Conroy, Lauren Ambrose",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:26"
+      },
+      {
+            "Judul": "56. 24 (2001\u20132010)",
+            "Durasi": "TV-14 | 44 min | Action, Crime, Drama",
+            "Rating": "8.4",
+            "Pemain": "Stars: Kiefer Sutherland, Mary Lynn Rajskub, Carlos Bernard, Dennis Haysbert",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:28"
+      },
+      {
+            "Judul": "57. Fawlty Towers (1975\u20131979)",
+            "Durasi": "TV-PG | 30 min | Comedy",
+            "Rating": "8.8",
+            "Pemain": "Stars: John Cleese, Prunella Scales, Andrew Sachs, Connie Booth",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:30"
+      },
+      {
+            "Judul": "58. Hill Street Blues (1981\u20131987)",
+            "Durasi": "TV-14 | 60 min | Crime, Drama, Mystery",
+            "Rating": "8.2",
+            "Pemain": "Stars: Daniel J. Travanti, Michael Warren, Bruce Weitz, James Sikking",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:34"
+      },
+      {
+            "Judul": "59. Roots (1977)",
+            "Durasi": "TV-14 | 588 min | Biography, Drama, History",
+            "Rating": "8.4",
+            "Pemain": "Stars: LeVar Burton, Robert Reed, John Amos, Louis Gossett Jr.",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:36"
+      },
+      {
+            "Judul": "60. Beavis and Butt-Head (1993\u20132011)",
+            "Durasi": "TV-14 | 15 min | Animation, Comedy, Music",
+            "Rating": "7.6",
+            "Pemain": "Stars: Mike Judge, Dale Revo, Kristofor Brown, Tracy Grandstaff",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:39"
+      },
+      {
+            "Judul": "61. Your Show of Shows (1950\u20131954)",
+            "Durasi": "90 min | Comedy",
+            "Rating": "8.7",
+            "Pemain": "Stars: Sid Caesar, Imogene Coca, Felisa Vanoff, Carl Reiner",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:41"
+      },
+      {
+            "Judul": "62. Sex and the City (1998\u20132004)",
+            "Durasi": "TV-MA | 30 min | Comedy, Drama, Romance",
+            "Rating": "7.3",
+            "Pemain": "Stars: Sarah Jessica Parker, Kim Cattrall, Kristin Davis, Cynthia Nixon",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:43"
+      },
+      {
+            "Judul": "63. The Wonder Years (1988\u20131993)",
+            "Durasi": "TV-PG | 22 min | Comedy, Drama, Family",
+            "Rating": "8.4",
+            "Pemain": "Stars: Fred Savage, Dan Lauria, Alley Mills, Jason Hervey",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:47"
+      },
+      {
+            "Judul": "64. Chappelle's Show (2003\u20132006)",
+            "Durasi": "TV-MA | 22 min | Comedy, Music",
+            "Rating": "8.8",
+            "Pemain": "Stars: Dave Chappelle, Donnell Rawlings, Rudy Rush, Charlie Murphy",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:49"
+      },
+      {
+            "Judul": "65. Happy Days (1974\u20131984)",
+            "Durasi": "TV-G | 30 min | Comedy, Family, Music",
+            "Rating": "7.5",
+            "Pemain": "Stars: Ron Howard, Henry Winkler, Marion Ross, Tom Bosley",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:51"
+      },
+      {
+            "Judul": "66. Downton Abbey (2010\u20132015)",
+            "Durasi": "TV-PG | 58 min | Drama, Romance",
+            "Rating": "8.8",
+            "Pemain": "Stars: Hugh Bonneville, Phyllis Logan, Elizabeth McGovern, Brendan Coyle",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:54"
+      },
+      {
+            "Judul": "67. The Odd Couple (1968)",
+            "Durasi": "G | 105 min | Comedy",
+            "Rating": "7.7",
+            "Pemain": "A New Yorker newly separated from his wife moves in with his best friend, a divorced sportswriter, but their ideas of housekeeping and lifestyles are as different as night and day.",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:56:58"
+      },
+      {
+            "Judul": "68. The State (1993\u20132009)",
+            "Durasi": "TV-14 | 30 min | Comedy",
+            "Rating": "8.5",
+            "Pemain": "Stars: Kevin Allison, Michael Ian Black, Robert Ben Garant, Todd Holoubek",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:03"
+      },
+      {
+            "Judul": "69. The Ed Sullivan Show (1948\u20131971)",
+            "Durasi": "TV-G | 60 min | Music, Talk-Show",
+            "Rating": "7.9",
+            "Pemain": "Stars: Ed Sullivan, Johnny Wayne, Frank Shuster, Topo Gigio",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:06"
+      },
+      {
+            "Judul": "70. Roseanne (1988\u20132018)",
+            "Durasi": "TV-PG | 21 min | Comedy, Drama",
+            "Rating": "7.1",
+            "Pemain": "Stars: Roseanne Barr, John Goodman, Laurie Metcalf, Michael Fishman",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:09"
+      },
+      {
+            "Judul": "71. Mr. Show with Bob and David (1995\u20131998)",
+            "Durasi": "TV-MA | 27 min | Comedy",
+            "Rating": "8.4",
+            "Pemain": "Stars: Bob Odenkirk, David Cross, John Ennis, Jay Johnston",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:11"
+      },
+      {
+            "Judul": "72. Girls (2012\u20132017)",
+            "Durasi": "TV-MA | 28 min | Comedy, Drama",
+            "Rating": "7.3",
+            "Pemain": "Stars: Lena Dunham, Allison Williams, Jemima Kirke, Adam Driver",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:14"
+      },
+      {
+            "Judul": "73. Transparent (2014\u20132019)",
+            "Durasi": "TV-MA | 30 min | Comedy, Drama",
+            "Rating": "7.8",
+            "Pemain": "Stars: Jeffrey Tambor, Amy Landecker, Gaby Hoffmann, Jay Duplass",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:20"
+      },
+      {
+            "Judul": "74. The Ren & Stimpy Show (1991\u20131996)",
+            "Durasi": "TV-Y7 | 30 min | Animation, Adventure, Comedy",
+            "Rating": "7.6",
+            "Pemain": "Stars: John Kricfalusi, Billy West, Harris Peet, Bob Camp",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:23"
+      },
+      {
+            "Judul": "75. American Crime Story (2016\u2013 )",
+            "Durasi": "TV-MA | 42 min | Biography, Crime, Drama",
+            "Rating": "8.4",
+            "Pemain": "Stars: Sarah Paulson, Annaleigh Ashford, Sterling K. Brown, Kenneth Choi",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:27"
+      },
+      {
+            "Judul": "76. Late Night with Conan O'Brien (1993\u20132009)",
+            "Durasi": "TV-14 | 60 min | Comedy, Music, Talk-Show",
+            "Rating": "8.2",
+            "Pemain": "Stars: Conan O'Brien, The Max Weinberg 7, Andy Richter, Joel Godard",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:30"
+      },
+      {
+            "Judul": "77. The Walking Dead (2010\u20132022)",
+            "Durasi": "TV-MA | 44 min | Drama, Horror, Thriller",
+            "Rating": "8.3",
+            "Pemain": "Stars: Andrew Lincoln, Norman Reedus, Melissa McBride, Lauren Cohan",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:34"
+      },
+      {
+            "Judul": "78. Thirtysomething (1987\u20131991)",
+            "Durasi": "TV-14 | 60 min | Drama, Romance",
+            "Rating": "7.4",
+            "Pemain": "Stars: Timothy Busfield, Polly Draper, Mel Harris, Peter Horton",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:36"
+      },
+      {
+            "Judul": "79. In Living Color (1990\u20131994)",
+            "Durasi": "TV-14 | 30 min | Comedy",
+            "Rating": "8.1",
+            "Pemain": "Stars: Keenen Ivory Wayans, Jim Carrey, Kelly Coffield Park, Shanin Lonsway",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:38"
+      },
+      {
+            "Judul": "80. The Fugitive (1963\u20131967)",
+            "Durasi": "51 min | Adventure, Crime, Drama",
+            "Rating": "8.1",
+            "Pemain": "Stars: David Janssen, William Conrad, Barry Morse, Paul Birch",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:41"
+      },
+      {
+            "Judul": "81. Dallas (1978\u20131991)",
+            "Durasi": "TV-PG | 60 min | Drama, Romance",
+            "Rating": "7.1",
+            "Pemain": "Stars: Larry Hagman, Ken Kercheval, Patrick Duffy, Linda Gray",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:44"
+      },
+      {
+            "Judul": "82. The Jeffersons (1975\u20131985)",
+            "Durasi": "TV-PG | 30 min | Comedy",
+            "Rating": "7.5",
+            "Pemain": "Stars: Isabel Sanford, Sherman Hemsley, Roxie Roker, Franklin Cover",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:45"
+      },
+      {
+            "Judul": "83. House of Cards (2013\u20132018)",
+            "Durasi": "TV-MA | 51 min | Drama",
+            "Rating": "8.7",
+            "Pemain": "Stars: Kevin Spacey, Michel Gill, Robin Wright, Kate Mara",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:48"
+      },
+      {
+            "Judul": "84. Real Time with Bill Maher (2003\u2013 )",
+            "Durasi": "TV-MA | 60 min | Comedy, News, Talk-Show",
+            "Rating": "7.4",
+            "Pemain": "Stars: Bill Maher, Andrew Sullivan, Michael Moore, Arianna Huffington",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:50"
+      },
+      {
+            "Judul": "85. The Real World (1992\u2013 )",
+            "Durasi": "TV-14 | 30 min | Drama, Reality-TV",
+            "Rating": "5.1",
+            "Pemain": "Stars: Janelle Casanave, Alton Williams II, Arissa Hill, Brynn Smith",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:56"
+      },
+      {
+            "Judul": "86. Good Times (1974\u20131979)",
+            "Durasi": "TV-PG | 30 min | Comedy",
+            "Rating": "7.4",
+            "Pemain": "Stars: Ja'net DuBois, Ralph Carter, BernNadette Stanis, Jimmie Walker",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:57:58"
+      },
+      {
+            "Judul": "87. Doctor Who (2005\u2013 )",
+            "Durasi": "TV-PG | 45 min | Adventure, Drama, Sci-Fi",
+            "Rating": "8.6",
+            "Pemain": "Stars: Jodie Whittaker, Peter Capaldi, Pearl Mackie, Matt Smith",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:00"
+      },
+      {
+            "Judul": "88. Party Down (2009\u20132010)",
+            "Durasi": "TV-14 | 30 min | Comedy, Drama",
+            "Rating": "8.3",
+            "Pemain": "Stars: Adam Scott, Ken Marino, Ryan Hansen, Martin Starr",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:02"
+      },
+      {
+            "Judul": "89. Homeland (2011\u20132020)",
+            "Durasi": "TV-MA | 55 min | Crime, Drama, Mystery",
+            "Rating": "8.4",
+            "Pemain": "Stars: Claire Danes, Mandy Patinkin, Damian Lewis, Rupert Friend",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:04"
+      },
+      {
+            "Judul": "90. The Dick Van Dyke Show (1961\u20131966)",
+            "Durasi": "TV-G | 30 min | Comedy, Family",
+            "Rating": "8.5",
+            "Pemain": "Stars: Dick Van Dyke, Mary Tyler Moore, Rose Marie, Morey Amsterdam",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:06"
+      },
+      {
+            "Judul": "91. Broad City (2014\u20132019)",
+            "Durasi": "TV-14 | 22 min | Comedy",
+            "Rating": "8.4",
+            "Pemain": "Stars: Ilana Glazer, Abbi Jacobson, Hannibal Buress, Arturo Castro",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:09"
+      },
+      {
+            "Judul": "92. American Idol (2002\u2013 )",
+            "Durasi": "TV-PG | 42 min | Game-Show, Music, Reality-TV",
+            "Rating": "4.2",
+            "Pemain": "Stars: Ryan Seacrest, Mark Thompson, Randy Jackson, Simon Cowell",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:11"
+      },
+      {
+            "Judul": "93. Mystery Science Theater 3000 (1988\u20131999)",
+            "Durasi": "TV-14 | 92 min | Comedy, Sci-Fi",
+            "Rating": "8.7",
+            "Pemain": "Stars: Joel Hodgson, Michael J. Nelson, Trace Beaulieu, Kevin Murphy",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:13"
+      },
+      {
+            "Judul": "94. Jeopardy! (1984\u2013 )",
+            "Durasi": "TV-G | 30 min | Game-Show",
+            "Rating": "8.3",
+            "Pemain": "Stars: Alex Trebek, Johnny Gilbert, Jimmy McGuire, Sarah Whitcomb Foss",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:16"
+      },
+      {
+            "Judul": "95. Key and Peele (2012\u20132015)",
+            "Durasi": "TV-14 | 30 min | Action, Adventure, Comedy",
+            "Rating": "8.4",
+            "Pemain": "Stars: Keegan-Michael Key, Jordan Peele, Metta World Peace, Brendan Hunt",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:18"
+      },
+      {
+            "Judul": "96. Gunsmoke (1955\u20131975)",
+            "Durasi": "TV-PG | 60 min | Western",
+            "Rating": "8.1",
+            "Pemain": "Stars: James Arness, Milburn Stone, Amanda Blake, Ken Curtis",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:21"
+      },
+      {
+            "Judul": "97. Portlandia (2011\u20132018)",
+            "Durasi": "TV-14 | 22 min | Comedy",
+            "Rating": "7.8",
+            "Pemain": "Stars: Fred Armisen, Carrie Brownstein, Kyle MacLachlan, Sam Adams",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:23"
+      },
+      {
+            "Judul": "98. The Golden Girls (1985\u20131992)",
+            "Durasi": "TV-PG | 30 min | Comedy, Drama",
+            "Rating": "8.2",
+            "Pemain": "Stars: Bea Arthur, Betty White, Rue McClanahan, Estelle Getty",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:26"
+      },
+      {
+            "Judul": "99. Oz (1997\u20132003)",
+            "Durasi": "TV-MA | 55 min | Crime, Drama, Thriller",
+            "Rating": "8.7",
+            "Pemain": "Stars: Ernie Hudson, J.K. Simmons, Lee Tergesen, Dean Winters",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:28"
+      },
+      {
+            "Judul": "100. Eastbound & Down (2009\u20132013)",
+            "Durasi": "TV-MA | 28 min | Comedy, Drama, Sport",
+            "Rating": "8.3",
+            "Pemain": "Stars: Danny McBride, Steve Little, Katy Mixon, Elizabeth De Razzo",
+            "Image": "https://m.media-amazon.com/images/G/01/IMDb/spinning-progress.gif",
+            "Waktu Scraping": "2022-03-29 22:58:30"
+      }
+]
