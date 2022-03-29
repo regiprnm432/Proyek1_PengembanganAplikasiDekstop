@@ -1,0 +1,33 @@
+<html>
+      <head>
+          <link rel="stylesheet" href="tablestyles.css">
+          <title>DATA SCRAPING 2</title>
+          <!--Import library jquery-->
+          <script
+            src="https://code.jquery.com/jquery-3.6.0.js"
+            integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+            crossorigin="anonymous"></script>
+      </head>
+      <body>
+          <h1>ToRolling Stone's 100 Greatest TV Shows of All Time</h1>
+          <div id="hasilscraping_json"></div>
+      </body>
+      <script type="text/javascript">
+          $(function(){
+              $.get('./hasilscraping.json',function(obj){
+                  var str = "<table border=1>";
+                  str +="<tr>Ranking<td></td><td class='tables'>Cover</td><td class='tables'>Judul</td><td class='tables'>Rating</td><td class='tables'>Pemain</td><td class='tables'>Waktu Scraping</td></tr>";
+                  $.each(obj,function(n,hasilscraping){
+                      str +="<tr><td>" + hasilscraping.No/Judul/Release + "</td>";
+                      str +="<td>" + "<img src=" + hasilscraping.Image + ">" +"</td>";    
+                      str +="<td>" + hasilscraping.Judul + "</td>";
+                      str +="<td class='tables'>" + hasilscraping.Tahun_Rilis + "</td>";
+                      str +="<td class='tables'>" + hasilscraping.Waktu_Scraping + "</td></tr>";
+                  });
+                  str +="</table>";
+                  $('#hasilscraping_json').html(str);
+              });
+          });
+      </script>    
+  </html>
+</html>
